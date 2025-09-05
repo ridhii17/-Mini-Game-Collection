@@ -45,3 +45,16 @@ This repository contains **three interactive games**:
 │   └── main.js
 └── README.md
 ```
+
+---
+
+## ⚡ How to Run  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/MinGameCollection.git
+   ```
+2. Navigate to the project directory:  
+   ```bash
+   cd MinGameCollection
+   ```
+3. Open the `index.html` file in your preferred web browser.    
